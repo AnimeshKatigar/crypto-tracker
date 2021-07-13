@@ -52,7 +52,7 @@ function Main() {
       <div className="coin-container">
         <div className={!isDarkMode ? "header-light" : "header-dark"}>
           <div className="currency">
-            <h1>CURRENCY</h1>
+            <h1>CRYPTO</h1>
           </div>
           <div className="coin-data">
             <h1 className="coin-price">PRICE</h1>
